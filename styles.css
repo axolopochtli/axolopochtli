@@ -4,8 +4,23 @@ body {
     padding: 0;
     box-sizing: border-box;
     color: #333;
+    background-color: #FF91AF; /* Change the background color here */
 }
 
+/* Top strip for the site name */
+#top-strip {
+    background-color: #111; /* Background color of the strip */
+    color: white; /* Text color */
+    text-align: center;
+    padding: 10px 0;
+}
+
+#top-strip h1 {
+    margin: 0;
+    font-size: 1.5rem;
+}
+
+/* Header styles */
 header {
     background-color: #111;
     color: white;
