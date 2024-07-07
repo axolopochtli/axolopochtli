@@ -22,7 +22,7 @@ body {
 
 /* Header styles */
 header {
-    background-color: #111;
+    background-color: #FF91AF;
     color: white;
     padding: 10px 0;
     text-align: center;
@@ -69,7 +69,7 @@ nav ul li a {
 }
 
 .btn {
-    background-color: #ff0077;
+    background-color: #FF91AF;
     color: white;
     padding: 10px 20px;
     text-decoration: none;
